@@ -135,9 +135,9 @@ h4, h5, h6, .h4, .h5, .h6 {
     transition: .5s;
 }
 
-.navbar {
+/* .navbar {
     border-bottom: 1px solid rgba(255, 255, 255, .5);
-}
+} */
 
 .navbar .navbar-nav .nav-link {
     padding: 12px;
